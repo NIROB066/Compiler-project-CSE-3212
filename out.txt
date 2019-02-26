@@ -1,0 +1,19 @@
+Successful Function Declaration
+Starting main function
+Valid declaration
+Duplicate variable : b
+Duplicate declaration but Valid
+ Duplicate variable : aa
+Duplicate variable : loll
+Duplicate variable : aa
+Duplicate declaration but Valid
+ Valid declaration
+Valid declaration
+ELSEIF doesn't execute
+Successful IF declaration
+IF executes
+Value of IF is 3.00
+Successful IF declaration
+IF executes
+Value of IF is 1.00
+syntax error
